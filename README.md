@@ -19,6 +19,7 @@ L'intérêt de la blockchain pour les NFT est qu'on peut voir toutes les transac
 Prénoms et Noms des participants - ING5 OCRES TD2: 
 Swathi SATHASIVAM
 Julie TROCHON
+--
 
 
 
